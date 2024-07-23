@@ -11,5 +11,5 @@ public class ModTiers {
             () -> Ingredient.of(Items.BLACKSTONE));
     public static final ForgeTier DEEPSLATE = new ForgeTier(1,251,4,1f,5,
             BlockTags.NEEDS_STONE_TOOL,
-            () -> Ingredient.of(Items.DEEPSLATE));
+            () -> Ingredient.of(Items.COBBLED_DEEPSLATE));
 }

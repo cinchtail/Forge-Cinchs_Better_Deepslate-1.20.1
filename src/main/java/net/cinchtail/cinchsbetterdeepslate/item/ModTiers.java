@@ -9,7 +9,7 @@ public class ModTiers {
     public static final ForgeTier BLACKSTONE = new ForgeTier(1,131,4,1f,5,
             BlockTags.NEEDS_STONE_TOOL,
             () -> Ingredient.of(Items.BLACKSTONE));
-    public static final ForgeTier DEEPSLATE = new ForgeTier(1,251,4,1f,5,
+    public static final ForgeTier DEEPSLATE = new ForgeTier(1,231,4,1f,5,
             BlockTags.NEEDS_STONE_TOOL,
             () -> Ingredient.of(Items.COBBLED_DEEPSLATE));
 }
